@@ -8,6 +8,7 @@
 <ul>
 <li><a href="./angular/angular.md">Angular</a></li>
 <li><a href="./javascript/javascript.md">JavaScript</a></li>
+<li><a href="test.md">test</a></li>
 </ul>
 <hr>
 <p>Welcome to the main documentation page. Use the navigation above to access specific topics.</p>
